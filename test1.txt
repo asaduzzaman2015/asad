@@ -4,9 +4,13 @@ i have completed HSC 2011
 
 i am happy to say that i already done my updated the document to github from the local repo and this was use from my git collection
 
+<<<<<<< HEAD
 i have completed my master 2021
 
 i have stated web development jon 2021
 
 i will joint singapore 
 
+=======
+i have completed my master 2026
+>>>>>>> b15156a2adaddaef103fc484d85eee688496d37e
