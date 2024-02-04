@@ -1,3 +1,5 @@
 this is my first code for github
 
 i have completed HSC 2011
+
+i am happy to say that i already done my updated the document to github from the local repo and this was use from my git collection
